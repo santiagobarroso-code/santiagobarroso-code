@@ -2,9 +2,9 @@
 
 # Hi, I'm Santiago Barroso Rosales 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1E3A8A&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%40+Club+Alpha;Angular+%C2%B7+TypeScript+%C2%B7+Ionic;Full+Stack+with+Django+REST+Framework;Computer+Systems+Engineer+%40+UDLAP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1E3A8A&center=true&vCenter=true&width=520&lines=Computer+Systems+Engineer;Frontend+%26+Full+Stack+Developer;Angular+%C2%B7+TypeScript+%C2%B7+Ionic;Django+REST+Framework+%C2%B7+Kotlin)](https://git.io/typing-svg)
 
-**Computer Systems Engineer (UDLAP, 2026) · Full Stack Developer · Puebla, México 🇲🇽**
+**Computer Systems Engineer · UDLAP · Puebla, México 🇲🇽**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-barroso-rosales-b10b13355/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagobryay@gmail.com)
@@ -15,7 +15,7 @@
 
 ### 👨🏻‍💻 About me
 
-I'm a Front End Developer at **Fundación Club Alpha de Puebla**, where I build web and hybrid app features with Angular and Ionic, design responsive interfaces, connect them to the backend, and ship changes from staging to production.
+I'm a Computer Systems Engineer from UDLAP focused on frontend and full stack development. I build web and mobile apps with Angular, Ionic, and Capacitor, and full stack systems with Django REST Framework.
 
 - 🏋️ Built the frontend of **GymTracker** from scratch, a gym training platform available on Google Play
 - 🧭 Led the front-end team during my social service at UDLAP's Digital Makerspace, working full stack with Django REST Framework and Angular
