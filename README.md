@@ -2,7 +2,7 @@
 
 # Hi, I'm Santiago Barroso Rosales 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1E3A8A&center=true&vCenter=true&width=520&lines=Front+End+Developer+%40+Club+Alpha;Angular+%C2%B7+TypeScript+%C2%B7+Ionic;Full+Stack+with+Django+REST+Framework;Computer+Systems+Engineer+%40+UDLAP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1E3A8A&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%40+Club+Alpha;Angular+%C2%B7+TypeScript+%C2%B7+Ionic;Full+Stack+with+Django+REST+Framework;Computer+Systems+Engineer+%40+UDLAP)](https://git.io/typing-svg)
 
 **Computer Systems Engineer (UDLAP, 2026) · Full Stack Developer · Puebla, México 🇲🇽**
 
